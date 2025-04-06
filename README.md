@@ -1,0 +1,1 @@
+# tcgdex-dotnet-sdk
