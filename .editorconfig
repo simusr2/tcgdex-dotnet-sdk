@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE0008: Usa il tipo esplicito
+csharp_style_var_elsewhere = false
+
+# IDE0090: Usa 'new(...)'
+csharp_style_implicit_object_creation_when_type_is_apparent = false
+
+# IDE0290: Usa costruttore primario
+csharp_style_prefer_primary_constructors = false
